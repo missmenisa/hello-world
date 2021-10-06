@@ -3,4 +3,4 @@ my first repository
 
 Here there!
 
-I'm Lisa and I like Spaghetti.
+Lisa here. Just want to let you knwo that I like Spaghetti.
